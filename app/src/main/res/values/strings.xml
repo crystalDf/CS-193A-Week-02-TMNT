@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TMNT</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="choose_turtle">Choose a turtle:</string>
+    <string-array name="turtles">
+        <item>Leonardo</item>
+        <item>Michelangelo</item>
+        <item>Donatello</item>
+        <item>Raphael</item>
+    </string-array>
+
+    <string-array name="images">
+        <item>tmntleo</item>
+        <item>tmntmike</item>
+        <item>tmntdon</item>
+        <item>tmntraph</item>
+    </string-array>
+
+    <string-array name="infos">
+        <item>leo_info</item>
+        <item>mike_info</item>
+        <item>don_info</item>
+        <item>raph_info</item>
+    </string-array>
+
+    <string name="leo_info">"The tactical, courageous leader and devoted student of his sensei, Leonardo wears a blue mask and wields two katana. As the most conscientious of the four, he often bears the burden of responsibility for his brothers, which commonly leads to conflict with Raphael. Leonardo was named after the Italian polymath, painter, engineer, inventor, writer, anatomist, and sculptor, Leonardo da Vinci."</string>
+    <string name="mike_info">"The most stereotypical of the team: An easy-going and free-spirited jokester, Michelangelo wears an orange mask and wields a pair of nunchucks. He is the least mature of the four Turtles and provides the comic relief. Michelangelo has an adventurous side coupled with a love of pizza. He shows characteristics of a "surfer" type and is often depicted with a Southern Californian accent. He is named after the Italian Renaissance painter, sculptor, architect, poet, and engineer, Michelangelo. His name was originally misspelled "Michaelangelo" by Peter Laird and Kevin Eastman."</string>
+    <string name="don_info">"The scientist, inventor, engineer, and technological genius, Donatello wears a purple mask and wields a bo staff. Donatello is perhaps the least violent turtle, preferring to use his knowledge to solve conflicts, but never hesitates to defend his brothers. He is named after the early Renaissance Italian artist and sculptor from Florence, Donatello."</string>
+    <string name="raph_info">"The team's bad boy, Raphael wears a dark red mask and wields a pair of sai. He is physically very strong, has an aggressive nature, and seldom hesitates to throw the first punch. He is often depicted with a New York accent. His personality can be fierce and sarcastic, and oftentimes delivers deadpan humor. He is intensely loyal to his brothers and sensei. He is named after the Italian painter and architect of the High Renaissance, Raphael."</string>
+
+</resources>
